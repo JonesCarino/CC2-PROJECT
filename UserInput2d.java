@@ -1,6 +1,6 @@
-package pkg2d.array;
+package UserInput2d;
 import java.util.Scanner;
-public class Array {
+public class UserInput2d {
 
     
     public static void main(String[] args) {
